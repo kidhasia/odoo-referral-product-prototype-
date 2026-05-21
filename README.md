@@ -17,7 +17,7 @@ A complete React-based referral and partner management ecosystem for BeaverHub. 
 - **Partner Management**: Approve, manage, and monitor partners
 - **Lead Management**: Review and manage all referral leads
 - **Commission Management**: Approve and process commissions
-- **Analytics**: Platform-wide insights and revenue tracking
+- **Analytics**: Platform-wide insights and revenue tracking 
 
 ## Tech Stack
 
